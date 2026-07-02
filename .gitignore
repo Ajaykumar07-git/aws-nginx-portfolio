@@ -1,0 +1,23 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Backup files
+*.bak
+
+# Vim swap files
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
