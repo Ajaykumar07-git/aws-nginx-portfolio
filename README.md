@@ -19,6 +19,10 @@ This project demonstrates how to deploy a static website on an Amazon Linux 2023
 - Git version control
 - AWS deployment
 
+## Branch
+
+This project demonstrates Git branching using a feature branch.
+
 ## Author
 
 Ajay Kumar
