@@ -88,23 +88,6 @@ aws-nginx-portfolio/
 
 ---
 
-## Project Structure
-
-```
-aws-nginx-portfolio/
-├── website/
-├── scripts/
-│   └── deploy.sh
-├── docs/
-│   ├── screenshots/
-│   ├── architecture/
-│   └── troubleshooting.md
-├── README.md
-└── .gitignore
-```
-
----
-
 ## Deployment Steps
 
 1. Clone the repository.
