@@ -43,6 +43,36 @@ Static Website
 
 ---
 
+## Project Structure
+
+```text
+aws-nginx-portfolio/
+│
+├── website/
+│   ├── index.html
+│   ├── 404.html
+│   ├── 500.html
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── nginx/
+│   └── (Nginx configuration and backup files)
+│
+├── scripts/
+│   └── deploy.sh
+│
+├── docs/
+│   ├── architecture/
+│   ├── screenshots/
+│   └── troubleshooting.md
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+
 ## Features
 
 * Static website deployment
